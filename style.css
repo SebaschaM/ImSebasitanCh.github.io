@@ -183,6 +183,9 @@ h6 {
   flex-direction: row;
   margin: 20px 0;
 }
+.about_description {
+  text-align: justify;
+}
 .about .box .year_company {
   min-width: 150px;
   margin-bottom: 10px;
